@@ -413,6 +413,3 @@ while count_keys < 5:
 #If not, you won the game!
     else:
         print("\nCONGRATULATIONS! You found 5 keys.\nYou immediately pun in all the keys into the front door and run straight out to your house!\n You are HOME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n")
-
-
-
